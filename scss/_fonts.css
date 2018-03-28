@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700');
+
+//font-family: 'PT Sans', sans-serif;
+
+@font-face {
+    font-family: 'proxima_nova_altbold';
+    src: url('../fonts/MarkSimonson-ProximaNovaAltBold-webfont.woff2') format('woff2'),
+         url('../fonts/MarkSimonson-ProximaNovaAltBold-webfont.woff') format('woff');
+         font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'proxima_nova_ltsemibold';
+    src: url('../fonts/MarkSimonson-ProximaNovaSemibold-webfont.woff2') format('woff2');
+
+    font-weight: 600;
+    font-style: normal;
+
+}

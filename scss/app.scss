@@ -1,8 +1,14 @@
 @charset 'utf-8';
 
+@import 'fonts';
+
 @import 'settings';
 @import 'foundation';
 @import 'motion-ui';
+
+
+@import 'style';
+
 
 @include foundation-global-styles;
 // @include foundation-grid;
